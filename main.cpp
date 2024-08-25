@@ -1,3 +1,6 @@
+#include<iostream>
+#include "Cercle"
+#include<string>
 int main() 
 {
     Cercle c1;
